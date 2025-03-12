@@ -1,0 +1,15 @@
+/home/eyald/DSA/Hashing/MaxNumberBalloons/bin/Debug/net8.0/MaxNumberBalloons
+/home/eyald/DSA/Hashing/MaxNumberBalloons/bin/Debug/net8.0/MaxNumberBalloons.deps.json
+/home/eyald/DSA/Hashing/MaxNumberBalloons/bin/Debug/net8.0/MaxNumberBalloons.runtimeconfig.json
+/home/eyald/DSA/Hashing/MaxNumberBalloons/bin/Debug/net8.0/MaxNumberBalloons.dll
+/home/eyald/DSA/Hashing/MaxNumberBalloons/bin/Debug/net8.0/MaxNumberBalloons.pdb
+/home/eyald/DSA/Hashing/MaxNumberBalloons/obj/Debug/net8.0/MaxNumberBalloons.GeneratedMSBuildEditorConfig.editorconfig
+/home/eyald/DSA/Hashing/MaxNumberBalloons/obj/Debug/net8.0/MaxNumberBalloons.AssemblyInfoInputs.cache
+/home/eyald/DSA/Hashing/MaxNumberBalloons/obj/Debug/net8.0/MaxNumberBalloons.AssemblyInfo.cs
+/home/eyald/DSA/Hashing/MaxNumberBalloons/obj/Debug/net8.0/MaxNumberBalloons.csproj.CoreCompileInputs.cache
+/home/eyald/DSA/Hashing/MaxNumberBalloons/obj/Debug/net8.0/MaxNumberBalloons.sourcelink.json
+/home/eyald/DSA/Hashing/MaxNumberBalloons/obj/Debug/net8.0/MaxNumberBalloons.dll
+/home/eyald/DSA/Hashing/MaxNumberBalloons/obj/Debug/net8.0/refint/MaxNumberBalloons.dll
+/home/eyald/DSA/Hashing/MaxNumberBalloons/obj/Debug/net8.0/MaxNumberBalloons.pdb
+/home/eyald/DSA/Hashing/MaxNumberBalloons/obj/Debug/net8.0/MaxNumberBalloons.genruntimeconfig.cache
+/home/eyald/DSA/Hashing/MaxNumberBalloons/obj/Debug/net8.0/ref/MaxNumberBalloons.dll

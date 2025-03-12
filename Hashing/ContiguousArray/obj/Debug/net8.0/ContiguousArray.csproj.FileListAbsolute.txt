@@ -1,0 +1,15 @@
+/home/eyald/DSA/Hashing/ContiguousArray/bin/Debug/net8.0/ContiguousArray
+/home/eyald/DSA/Hashing/ContiguousArray/bin/Debug/net8.0/ContiguousArray.deps.json
+/home/eyald/DSA/Hashing/ContiguousArray/bin/Debug/net8.0/ContiguousArray.runtimeconfig.json
+/home/eyald/DSA/Hashing/ContiguousArray/bin/Debug/net8.0/ContiguousArray.dll
+/home/eyald/DSA/Hashing/ContiguousArray/bin/Debug/net8.0/ContiguousArray.pdb
+/home/eyald/DSA/Hashing/ContiguousArray/obj/Debug/net8.0/ContiguousArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/eyald/DSA/Hashing/ContiguousArray/obj/Debug/net8.0/ContiguousArray.AssemblyInfoInputs.cache
+/home/eyald/DSA/Hashing/ContiguousArray/obj/Debug/net8.0/ContiguousArray.AssemblyInfo.cs
+/home/eyald/DSA/Hashing/ContiguousArray/obj/Debug/net8.0/ContiguousArray.csproj.CoreCompileInputs.cache
+/home/eyald/DSA/Hashing/ContiguousArray/obj/Debug/net8.0/ContiguousArray.sourcelink.json
+/home/eyald/DSA/Hashing/ContiguousArray/obj/Debug/net8.0/ContiguousArray.dll
+/home/eyald/DSA/Hashing/ContiguousArray/obj/Debug/net8.0/refint/ContiguousArray.dll
+/home/eyald/DSA/Hashing/ContiguousArray/obj/Debug/net8.0/ContiguousArray.pdb
+/home/eyald/DSA/Hashing/ContiguousArray/obj/Debug/net8.0/ContiguousArray.genruntimeconfig.cache
+/home/eyald/DSA/Hashing/ContiguousArray/obj/Debug/net8.0/ref/ContiguousArray.dll

@@ -1,0 +1,15 @@
+/home/eyald/DSA/Hashing/LargestUniqueNumber/obj/Debug/net8.0/LargestUniqueNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/eyald/DSA/Hashing/LargestUniqueNumber/obj/Debug/net8.0/LargestUniqueNumber.AssemblyInfoInputs.cache
+/home/eyald/DSA/Hashing/LargestUniqueNumber/obj/Debug/net8.0/LargestUniqueNumber.AssemblyInfo.cs
+/home/eyald/DSA/Hashing/LargestUniqueNumber/obj/Debug/net8.0/LargestUniqueNumber.csproj.CoreCompileInputs.cache
+/home/eyald/DSA/Hashing/LargestUniqueNumber/obj/Debug/net8.0/LargestUniqueNumber.sourcelink.json
+/home/eyald/DSA/Hashing/LargestUniqueNumber/bin/Debug/net8.0/LargestUniqueNumber
+/home/eyald/DSA/Hashing/LargestUniqueNumber/bin/Debug/net8.0/LargestUniqueNumber.deps.json
+/home/eyald/DSA/Hashing/LargestUniqueNumber/bin/Debug/net8.0/LargestUniqueNumber.runtimeconfig.json
+/home/eyald/DSA/Hashing/LargestUniqueNumber/bin/Debug/net8.0/LargestUniqueNumber.dll
+/home/eyald/DSA/Hashing/LargestUniqueNumber/bin/Debug/net8.0/LargestUniqueNumber.pdb
+/home/eyald/DSA/Hashing/LargestUniqueNumber/obj/Debug/net8.0/LargestUniqueNumber.dll
+/home/eyald/DSA/Hashing/LargestUniqueNumber/obj/Debug/net8.0/refint/LargestUniqueNumber.dll
+/home/eyald/DSA/Hashing/LargestUniqueNumber/obj/Debug/net8.0/LargestUniqueNumber.pdb
+/home/eyald/DSA/Hashing/LargestUniqueNumber/obj/Debug/net8.0/LargestUniqueNumber.genruntimeconfig.cache
+/home/eyald/DSA/Hashing/LargestUniqueNumber/obj/Debug/net8.0/ref/LargestUniqueNumber.dll
