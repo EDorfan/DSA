@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\bin\Debug\net9.0\CountingElementsApp.exe
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\bin\Debug\net9.0\CountingElementsApp.deps.json
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\bin\Debug\net9.0\CountingElementsApp.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\bin\Debug\net9.0\CountingElementsApp.dll
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\bin\Debug\net9.0\CountingElementsApp.pdb
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\obj\Debug\net9.0\CountingElementsApp.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\obj\Debug\net9.0\CountingElementsApp.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\obj\Debug\net9.0\CountingElementsApp.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\obj\Debug\net9.0\CountingElementsApp.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\obj\Debug\net9.0\CountingElementsApp.sourcelink.json
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\obj\Debug\net9.0\CountingElementsApp.dll
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\obj\Debug\net9.0\refint\CountingElementsApp.dll
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\obj\Debug\net9.0\CountingElementsApp.pdb
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\obj\Debug\net9.0\CountingElementsApp.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\CountingElementsApp\obj\Debug\net9.0\ref\CountingElementsApp.dll

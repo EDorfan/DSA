@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\bin\Debug\net9.0\MissingNumberApp.exe
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\bin\Debug\net9.0\MissingNumberApp.deps.json
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\bin\Debug\net9.0\MissingNumberApp.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\bin\Debug\net9.0\MissingNumberApp.dll
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\bin\Debug\net9.0\MissingNumberApp.pdb
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\obj\Debug\net9.0\MissingNumberApp.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\obj\Debug\net9.0\MissingNumberApp.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\obj\Debug\net9.0\MissingNumberApp.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\obj\Debug\net9.0\MissingNumberApp.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\obj\Debug\net9.0\MissingNumberApp.sourcelink.json
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\obj\Debug\net9.0\MissingNumberApp.dll
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\obj\Debug\net9.0\refint\MissingNumberApp.dll
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\obj\Debug\net9.0\MissingNumberApp.pdb
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\obj\Debug\net9.0\MissingNumberApp.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\MissingNumberApp\obj\Debug\net9.0\ref\MissingNumberApp.dll

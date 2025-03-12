@@ -1,0 +1,15 @@
+/home/eyald/DSA/Hashing/FindWinnersApp/bin/Debug/net8.0/FindWinnersApp
+/home/eyald/DSA/Hashing/FindWinnersApp/bin/Debug/net8.0/FindWinnersApp.deps.json
+/home/eyald/DSA/Hashing/FindWinnersApp/bin/Debug/net8.0/FindWinnersApp.runtimeconfig.json
+/home/eyald/DSA/Hashing/FindWinnersApp/bin/Debug/net8.0/FindWinnersApp.dll
+/home/eyald/DSA/Hashing/FindWinnersApp/bin/Debug/net8.0/FindWinnersApp.pdb
+/home/eyald/DSA/Hashing/FindWinnersApp/obj/Debug/net8.0/FindWinnersApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/eyald/DSA/Hashing/FindWinnersApp/obj/Debug/net8.0/FindWinnersApp.AssemblyInfoInputs.cache
+/home/eyald/DSA/Hashing/FindWinnersApp/obj/Debug/net8.0/FindWinnersApp.AssemblyInfo.cs
+/home/eyald/DSA/Hashing/FindWinnersApp/obj/Debug/net8.0/FindWinnersApp.csproj.CoreCompileInputs.cache
+/home/eyald/DSA/Hashing/FindWinnersApp/obj/Debug/net8.0/FindWinnersApp.sourcelink.json
+/home/eyald/DSA/Hashing/FindWinnersApp/obj/Debug/net8.0/FindWinnersApp.dll
+/home/eyald/DSA/Hashing/FindWinnersApp/obj/Debug/net8.0/refint/FindWinnersApp.dll
+/home/eyald/DSA/Hashing/FindWinnersApp/obj/Debug/net8.0/FindWinnersApp.pdb
+/home/eyald/DSA/Hashing/FindWinnersApp/obj/Debug/net8.0/FindWinnersApp.genruntimeconfig.cache
+/home/eyald/DSA/Hashing/FindWinnersApp/obj/Debug/net8.0/ref/FindWinnersApp.dll

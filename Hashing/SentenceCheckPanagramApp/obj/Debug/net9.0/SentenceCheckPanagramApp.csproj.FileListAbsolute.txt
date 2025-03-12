@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\bin\Debug\net9.0\SentenceCheckPanagramApp.exe
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\bin\Debug\net9.0\SentenceCheckPanagramApp.deps.json
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\bin\Debug\net9.0\SentenceCheckPanagramApp.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\bin\Debug\net9.0\SentenceCheckPanagramApp.dll
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\bin\Debug\net9.0\SentenceCheckPanagramApp.pdb
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\obj\Debug\net9.0\SentenceCheckPanagramApp.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\obj\Debug\net9.0\SentenceCheckPanagramApp.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\obj\Debug\net9.0\SentenceCheckPanagramApp.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\obj\Debug\net9.0\SentenceCheckPanagramApp.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\obj\Debug\net9.0\SentenceCheckPanagramApp.sourcelink.json
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\obj\Debug\net9.0\SentenceCheckPanagramApp.dll
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\obj\Debug\net9.0\refint\SentenceCheckPanagramApp.dll
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\obj\Debug\net9.0\SentenceCheckPanagramApp.pdb
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\obj\Debug\net9.0\SentenceCheckPanagramApp.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\eyald\DSA\Hashing\SentenceCheckPanagramApp\obj\Debug\net9.0\ref\SentenceCheckPanagramApp.dll
