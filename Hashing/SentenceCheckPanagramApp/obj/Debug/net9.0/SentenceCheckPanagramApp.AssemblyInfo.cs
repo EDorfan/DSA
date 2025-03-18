@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SentenceCheckPanagramApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65bb120d3ef761ac2021a1991102bce3c8ebd6a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd5508471e787300217da80bf07963d7c6a5c81e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SentenceCheckPanagramApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SentenceCheckPanagramApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
