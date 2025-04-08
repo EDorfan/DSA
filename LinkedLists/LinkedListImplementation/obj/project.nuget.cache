@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JrqdqxmJmg1MMXVveZdOrlcUWyqB5nxOaeno37vQRir2Qo1L18YRZFdOy7vrmUMMWhJ7hWg/1lascbpqqffu2g==",
+  "dgSpecHash": "iCb+rHJ3MC8=",
   "success": true,
-  "projectFilePath": "/home/eyald/DSA/LinkedLists/LinkedListImplementation/LinkedListImplementation.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\eyald\\DSA\\LinkedLists\\LinkedListImplementation\\LinkedListImplementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eyald\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\eyald\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\eyald\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\eyald\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -132,16 +132,17 @@ int main() {
     oneDLL->next = twoDLL;
     twoDLL->next = threeDLL;
     twoDLL->prev = oneDLL;
+    threeDLL->prev = twoDLL;
 
     LinkedListNodeDoubly* fourDLL = new LinkedListNodeDoubly(4);
     addNodeDLL(oneDLL, fourDLL);
 
     cout << "Doubly linked list Example: " << endl;
-    cout << "The sum of all the elements in the doubly linked list is: " << getSum(head) << endl;
-    cout << "The first element in the doubly linked list is: " << head->val << endl;
-    cout << "The second element in the doubly linked list is: " << head->next->val << endl;
-    cout << "The third element in the doubly linked list is: " << head->next->next->val << endl;
-    cout << "The fourth element in the doubly linked list is: " << head->next->next->next->val << endl << endl;
+    cout << "The sum of all the elements in the doubly linked list is: " << getSumDoubly(oneDLL) << endl;
+    cout << "The first element in the doubly linked list is: " << oneDLL->val << endl;
+    cout << "The second element in the doubly linked list is: " << oneDLL->next->val << endl;
+    cout << "The third element in the doubly linked list is: " << oneDLL->next->next->val << endl;
+    cout << "The fourth element in the doubly linked list is: " << oneDLL->next->next->next->val << endl << endl;
     
 
     // Using Sentinel Nodes
